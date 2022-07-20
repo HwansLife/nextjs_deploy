@@ -1,5 +1,5 @@
 import classes from './MeetupDetail.module.css';
-
+//update
 function MeetupDetail(props) {
   return (
     <section className={classes.detail}>
